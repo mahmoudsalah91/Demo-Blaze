@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa836410-af88-470e-a21d-5745eef28f8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/demoblaze.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arg.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/TestData/test_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/pages/CartPage.resource" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/pages/HomePage.resource" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/pages/LoginPage.resource" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/pages/ProductDetailsPage.resource" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/pages/setup.resource" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/AddToCart.robot" afterDir="false" />
+    <list default="true" id="fa836410-af88-470e-a21d-5745eef28f8d" name="Changes" comment="update config">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/pages/HomePage.resource" beforeDir="false" afterPath="$PROJECT_DIR$/resources/pages/HomePage.resource" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +32,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Robot Runner.AddToCart - \"homepage.click on login button\".executor": "Run",
-    "Robot Runner.AddToCart - \"user can add product to cart\".executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Robot Runner.AddToCart - \&quot;homepage.click on login button\&quot;.executor&quot;: &quot;Run&quot;,
+    &quot;Robot Runner.AddToCart - \&quot;user can add product to cart\&quot;.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mohamed awaad\PycharmProjects\demoblaze\resources\pages" />
@@ -172,6 +158,19 @@
       <option name="presentableId" value="Default" />
       <updated>1741878097279</updated>
     </task>
+    <task id="LOCAL-00001" summary="update config">
+      <option name="closed" value="true" />
+      <created>1742045048215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742045048215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update config" />
+    <option name="LAST_COMMIT_MESSAGE" value="update config" />
   </component>
 </project>

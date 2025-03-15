@@ -23,15 +23,6 @@ Navigate to product page
     END
 
 
-
-
-   # Load JSON Data
-   # ${productTitle} =    Set Variable    ${json_data['product']}
-   # Scroll Element Into View    //a[text()='${productTitle['title']}']
-
-   # ${product_xpath}=  Set Variable  //a[text()='${productTitle['title']}']
-   # click element    ${product_xpath}
-
 click on Cart button
     wait until element is visible     ${cart_Btn}   ${wait}
     click element    ${cart_Btn}
