@@ -1,0 +1,13 @@
+{
+    "loginData":
+        {
+            "user": "admin",
+            "password": "admin",
+            "expectedResult": "success"
+        },
+    "product": {
+        "title": "HTC One M9",
+        "price": "$700"
+    }
+
+}

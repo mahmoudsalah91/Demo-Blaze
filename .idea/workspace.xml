@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa836410-af88-470e-a21d-5745eef28f8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/demoblaze.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/TestData/test_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/pages/CartPage.resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/pages/HomePage.resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/pages/LoginPage.resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/pages/ProductDetailsPage.resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/pages/setup.resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/AddToCart.robot" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2uGbwe2YRPmdYSa9VgncZ0jV149" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Robot Runner.AddToCart - \"homepage.click on login button\".executor": "Run",
+    "Robot Runner.AddToCart - \"user can add product to cart\".executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mohamed awaad\PycharmProjects\demoblaze\resources\pages" />
+      <recent name="C:\Users\mohamed awaad\PycharmProjects\demoblaze\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Robot Runner.AddToCart - &quot;user can add product to card succes&quot;">
+    <configuration name="AddToCart - &quot;homepage.click on login button&quot;" type="robot-runner" factoryName="RobotRunConfigurationFactory" temporary="true">
+      <option name="extraArguments" />
+      <option name="logFilePath" />
+      <option name="logTitle" />
+      <option name="outputDirPath" />
+      <option name="outputFilePath" />
+      <option name="pabotArguments" />
+      <option name="reportFilePath" />
+      <option name="reportTitle" />
+      <option name="sdkHomePath" value="$PROJECT_DIR$/.venv/Scripts/python.exe" />
+      <option name="suitePaths">
+        <list>
+          <option value="$PROJECT_DIR$/tests/AddToCart.robot" />
+        </list>
+      </option>
+      <option name="testNames">
+        <list>
+          <option value="*homepage.click on login button*" />
+        </list>
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="AddToCart - &quot;user can add product to card succes&quot;" type="robot-runner" factoryName="RobotRunConfigurationFactory" temporary="true">
+      <option name="extraArguments" />
+      <option name="logFilePath" />
+      <option name="logTitle" />
+      <option name="outputDirPath" />
+      <option name="outputFilePath" />
+      <option name="pabotArguments" />
+      <option name="reportFilePath" />
+      <option name="reportTitle" />
+      <option name="sdkHomePath" />
+      <option name="suitePaths">
+        <list>
+          <option value="$PROJECT_DIR$/tests/AddToCart.robot" />
+        </list>
+      </option>
+      <option name="testNames">
+        <list>
+          <option value="*user can add product to card succes*" />
+        </list>
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="AddToCart - &quot;user can add product to cart&quot;" type="robot-runner" factoryName="RobotRunConfigurationFactory" temporary="true">
+      <option name="extraArguments" />
+      <option name="logFilePath" />
+      <option name="logTitle" />
+      <option name="outputDirPath" />
+      <option name="outputFilePath" />
+      <option name="pabotArguments" />
+      <option name="reportFilePath" />
+      <option name="reportTitle" />
+      <option name="sdkHomePath" />
+      <option name="suitePaths">
+        <list>
+          <option value="$PROJECT_DIR$/tests/AddToCart.robot" />
+        </list>
+      </option>
+      <option name="testNames">
+        <list>
+          <option value="*user can add product to cart*" />
+        </list>
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="robot-runner" factoryName="RobotRunConfigurationFactory">
+      <option name="extraArguments" />
+      <option name="logFilePath" />
+      <option name="logTitle" />
+      <option name="outputDirPath" />
+      <option name="outputFilePath" />
+      <option name="pabotArguments" />
+      <option name="reportFilePath" />
+      <option name="reportTitle" />
+      <option name="sdkHomePath" value="$PROJECT_DIR$/.venv/Scripts/python.exe" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Robot Runner.AddToCart - &quot;user can add product to card succes&quot;" />
+      <item itemvalue="Robot Runner.AddToCart - &quot;user can add product to cart&quot;" />
+      <item itemvalue="Robot Runner.AddToCart - &quot;homepage.click on login button&quot;" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Robot Runner.AddToCart - &quot;user can add product to card succes&quot;" />
+        <item itemvalue="Robot Runner.AddToCart - &quot;user can add product to card succes&quot;" />
+        <item itemvalue="Robot Runner.AddToCart - &quot;user can add product to cart&quot;" />
+        <item itemvalue="Robot Runner.AddToCart - &quot;homepage.click on login button&quot;" />
+        <item itemvalue="Robot Runner.AddToCart - &quot;homepage.click on login button&quot;" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa836410-af88-470e-a21d-5745eef28f8d" name="Changes" comment="" />
+      <created>1741878097279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741878097279</updated>
+    </task>
+    <servers />
+  </component>
+</project>

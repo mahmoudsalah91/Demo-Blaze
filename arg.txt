@@ -1,0 +1,2 @@
+--variable Browser:chrome
+--variable BaseUrl:https://www.demoblaze.com/index.html

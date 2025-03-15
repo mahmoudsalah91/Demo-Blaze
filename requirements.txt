@@ -1,0 +1,4 @@
+selenium==4.29.0
+robotframework==7.22
+robotframework-seleniumlibrary==6.71
+robotframework-jsonlibrary==0.5
